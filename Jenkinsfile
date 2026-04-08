@@ -7,7 +7,7 @@ pipeline {
                 echo "Building main branch..."
             }
         }
-        stage('Test') {
+        stage('Test 2') {
             steps {
                 echo "Running tests on main branch..."
             }
